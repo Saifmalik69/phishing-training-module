@@ -36,16 +36,17 @@ Authoring tools: Adobe Captivate, Articulate Storyline, Lectora
 Video editing software: Adobe Premiere Pro, Final Cut Pro
 Learning management systems (LMS): Moodle, Blackboard, Canvas
 
-Top 10 types of phising 
+10 Types of Phishing Attacks
 
-Spear Phishing
-Whale Phishing
-Clone Phishing
-Pharming
-Smishing
-Vishing
-Quid Pro Quo Phishing
-Clickjacking
-Typo Squatting
-Phishing Kits
+Phishing attacks come in various forms, each with its own unique tactics and targets. Here are the top 10 types:
 
+Spear Phishing: This highly targeted attack is designed to deceive specific individuals or organizations by using personalized information to make the emails or messages appear legitimate.
+Whale Phishing: A variation of spear phishing, whale phishing targets high-profile individuals within an organization, such as CEOs or CFOs, with the aim of obtaining sensitive information or financial assets.
+Clone Phishing: This attack involves replicating legitimate emails, often with attachments or links that contain malicious content, to trick recipients into clicking on them.
+Pharming: A more sophisticated attack that redirects users to malicious websites, even if they have typed in the correct URL, by manipulating DNS records.
+Smishing: A form of phishing conducted via SMS messages, often asking recipients to click on links or provide personal information.
+Vishing: A voice-based phishing attack that involves scammers calling victims and attempting to trick them into revealing sensitive information over the phone.
+Quid Pro Quo Phishing: This type of attack offers victims something in exchange for personal information, such as a prize or discount.
+Clickjacking: A visual trick that overlays a malicious element on top of a legitimate website, deceiving users into clicking on it.
+Typo Squatting: This involves creating websites with similar-looking URLs to legitimate ones, hoping to lure users into mistyping the address.
+Phishing Kits: Pre-built phishing tools that can be easily purchased or downloaded by attackers, making it easier to launch phishing campaign
